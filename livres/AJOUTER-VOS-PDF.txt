@@ -1,0 +1,7 @@
+Déposez ici vos vrais fichiers PDF.
+Exemples attendus par les pages actuelles :
+- livre-1.pdf
+- livre-2.pdf
+- livre-3.pdf
+
+Vous pouvez ensuite modifier les titres, résumés et liens dans les fichiers HTML.
